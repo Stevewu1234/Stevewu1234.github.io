@@ -3,7 +3,7 @@ layout: post
 title: '以太经典ETC简史'
 date: 2018-08-27
 subtitle: '带你回顾以太经典ETC的发展'
-cover: 'http://inews.gtimg.com/newsapp_bt/0/5007597629/641'
+cover: 'https://preview.ibb.co/gKAJBp/641_1.jpg'
 tags: 关于ETC
 ---
 
