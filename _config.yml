@@ -30,8 +30,11 @@ nightMode: true
 
 # Comments 评论功能
 comments:
-  disqus: true
+  disqus: false
   disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+
+#intensedebate 评论功能
+intensedebate_comments: true
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
