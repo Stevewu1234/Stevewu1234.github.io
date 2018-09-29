@@ -42,6 +42,11 @@
       {{ page.content }}
     </article>
 
+    {% if site.intensedebate_comments %}
+      {% include intensedebate-comments.html %}
+    {% endif %}
+    
+    
     {% if site.social-share %}
     <div class="social-share-wrapper">
       <div class="social-share"></div>
@@ -123,9 +128,6 @@
     });
   </script>
 
-   {% if site.intensedebate_comments %}
-      {% include intensedebate-comments.html %}
-    {% endif %}
   
   {% if site.comments.disqus %}
   <script>
