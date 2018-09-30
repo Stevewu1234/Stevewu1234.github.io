@@ -40,6 +40,7 @@
     <article class="markdown-body">
       <span><h5>本文总字数</h5>{{ content | strip_html | strip_newlines | split: "" | size }}</span>
       {{ page.content }}
+      {% if site.intensedebate_comments %} {% include intensedebate-comments.html %} {% endif %}
     </article>
     
    
