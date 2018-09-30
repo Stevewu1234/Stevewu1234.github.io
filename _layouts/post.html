@@ -40,15 +40,17 @@
     <article class="markdown-body">
       <span><h5>本文总字数</h5>{{ content | strip_html | strip_newlines | split: "" | size }}</span>
       {{ page.content }}
-      {% if site.intensedebate_comments %} {% include intensedebate-comments.html %} {% endif %}
+    {% if site.intensedebate_comments %} {% include intensedebate-comments.html %} {% endif %}
     </article>
-    
-   
+
+
     {% if site.social-share %}
     <div class="social-share-wrapper">
       <div class="social-share"></div>
+
     </div>
     {% endif %}
+
   </div>
 
   <section class="author-detail">
@@ -69,15 +71,19 @@
                 </a>
         </li>
         {% endfor %}
+
+
       </ul>
       {% endif %}
     </section>
+
+
     <section class="post-footer-item read-next">
       {% if page.next.url %}
       <div class="read-next-item">
         <a href="{{ page.next.url }}" class="read-next-link"></a>
         <section>
-          <span>{{ page.next.title }}</span>
+          <span>{{ page.next.title }}<br><time class="post-meta-item" datetime="{{ page.next.date | date:"%y-%m-%d" }}"><i class="iconfont icon-date"></i>{{ page.next.date | date_to_string }}</time></span>
           <p>{{ page.next.excerpt | strip_html | strip_newlines | truncate: 60}}</p>
         </section>
         {% if page.next.cover %}
@@ -91,7 +97,7 @@
       <div class="read-next-item">
         <a href="{{ page.previous.url }}" class="read-next-link"></a>
           <section>
-            <span>{{ page.previous.title }}</span>
+            <span>{{ page.previous.title }}<br><time class="post-meta-item" datetime="{{ page.previous.date | date:"%y-%m-%d" }}"><i class="iconfont icon-date"></i>{{ page.previous.date | date_to_string }}</time></span>
             <p>{{ page.previous.excerpt | strip_html | strip_newlines | truncate: 60}}</p>
           </section>
           {% if page.previous.cover %}
@@ -125,7 +131,7 @@
     });
   </script>
 
-  
+
   {% if site.comments.disqus %}
   <script>
     /**
