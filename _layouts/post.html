@@ -40,6 +40,7 @@
     <article class="markdown-body">
       <span><h5>本文总字数</h5>{{ content | strip_html | strip_newlines | split: "" | size }}</span>
       {{ page.content }}
+
       <span id="busuanzi_container_page_pv">
         <b>阅读量</b><span id="busuanzi_value_page_pv"></span><b>次</b>
       </span>
@@ -47,16 +48,16 @@
     {% if site.intensedebate_comments %} {% include intensedebate-comments.html %} {% endif %}
     </article>
 
-
     {% if site.social-share %}
-    <div class="social-share-wrapper">
-      <div class="social-share"></div>
 
+    <div class="social-share-wrapper">
+      <span class="social-title"></span>
+      <span class="social-share">{{ site.social-title }}</span>
     </div>
+
     {% endif %}
 
   </div>
-
   <section class="author-detail">
     <section class="post-footer-item author-card">
       <div class="avatar">
