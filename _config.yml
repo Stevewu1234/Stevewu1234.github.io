@@ -45,6 +45,7 @@ mathjax: true
 # Share
 social-share: true
 social-share-items: ['wechat', 'weibo', 'twitter', 'facebook']
+social-title: 分享文章：
 #social-share-items: ['wechat', 'weibo', 'twitter', 'facebook', 'telegram']
 
 # theme color 主题皮肤
@@ -57,7 +58,8 @@ postPatterns: 'seaOfClouds'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   weibo: '//weibo.com/ethereumclassic'
-  jianshu: '//www.jianshu.com/u/11c1ad5e8788'
+
+#jianshu: '//www.jianshu.com/u/11c1ad5e8788'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
