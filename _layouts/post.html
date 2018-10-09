@@ -24,6 +24,9 @@
       <div class="post-meta">
         <span class="post-meta-item"><i class="iconfont icon-author"></i><a href="{{ site.url }}" target="_blank" rel="author">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</a></></span>
         <time class="post-meta-item" datetime="{{ page.date | date:"%y-%m-%d" }}"><i class="iconfont icon-date"></i>{{ page.date | date_to_string }}</time>
+        <span id="busuanzi_container_page_pv" style="width:relative; float:right">
+          阅读量:<span id="busuanzi_value_page_pv"></span>次
+        </span>
       </div>
     </div>
     {% if page.cover %}
@@ -38,17 +41,27 @@
     {% endif %}
 
     <article class="markdown-body">
-      <span><h5>本文总字数</h5>{{ content | strip_html | strip_newlines | split: "" | size }}</span>
+    <div style="width:auto;">
+      <!--
+      <span style="width:relative; float:left">
+        <h5>本文总字数</h5>{{ content | strip_html | strip_newlines | split: "" | size }}
+      </span>
+      -->
+
+   </div>
+    <hr>
       {{ page.content }}
 
-      <span id="busuanzi_container_page_pv">
-        <b>阅读量</b><span id="busuanzi_value_page_pv"></span><b>次</b>
-      </span>
+
     <hr>
     {% if site.intensedebate_comments %} {% include intensedebate-comments.html %} {% endif %}
     </article>
 
     {% if site.social-share %}
+
+    <div  align="middle" background=#C7C7C7 opacity:0.6;>
+    <a href="../"><img src="//image.ibb.co/darTzU/image.png" height="150" width="250"></img></a>
+    </div>
 
     <div class="social-share-wrapper">
       <span class="social-title"></span>
