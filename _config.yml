@@ -13,8 +13,8 @@ baseurl: ''
 # Navigation links
 nav:
   首页: '/'
+  资源: '/resource.html'
   #资讯: '/tags.html'
-  资源: 'resource.html'
 
 # Footer
 footer:
