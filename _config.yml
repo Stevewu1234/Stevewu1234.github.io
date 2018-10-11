@@ -16,6 +16,9 @@ nav:
   资源: '/resource.html'
   #资讯: '/tags.html'
 
+miss:
+  home: '/'
+
 # Footer
 footer:
   since: ETCChina
