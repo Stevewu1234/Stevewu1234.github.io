@@ -7,13 +7,15 @@ cover: 'https://preview.ibb.co/jA8arp/180925.jpg'
 tags: NEWS
 ---
 
-路演主题：以太经典ETC展望
 
-**路演时间：2018-9-25号 周二 15:00**
 
-**直播社群：ZG.TOP电报群https://t.me/ZGTOP**
+**<font face="微软雅黑">路演主题：以太经典ETC展望</font>**
 
-**对话嘉宾：以太坊原链协会(ETCC)秘书长 Roy**
+**<font face="微软雅黑">路演时间：2018-9-25号 周二 15:00</font>**
+
+**<font face="微软雅黑">直播社群：ZG.TOP电报群https://t.me/ZGTOP</font>**
+
+**<font face="微软雅黑">对话嘉宾：以太坊原链协会(ETCC)秘书长 Roy</font>**
 
 ***
 
