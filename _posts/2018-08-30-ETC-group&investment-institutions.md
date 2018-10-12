@@ -7,6 +7,8 @@ cover: 'http://p98.pstatp.com/large/pgc-image/1535626915979121d00f754'
 tags: ETC团队
 ---
 
+![](https://image.ibb.co/cCx7Oe/1535430722445e8f69f0035.jpg)
+
 ### 以太经典ETC团队
 
 **ETCDEV**
@@ -50,3 +52,7 @@ tags: ETC团队
 ![](http://p3.pstatp.com/large/pgc-image/1535626916250023204d31e)
 
 &emsp;&emsp;在纽约共识大会Consensus 2018上，由三家投资机构Foxconn Technology Group（简称HCM）、Digital Finance Group（简称DFG）和Digital Currency Group（简称 DCG）共同注资的基于ETC区块链的孵化器平台“Ethereum Classic Labs”正式成立，首期资金达五千万美元。
+
+![](https://image.ibb.co/mAA749/02_02.jpg)
+
+![](https://image.ibb.co/miAkrp/01.jpg)
