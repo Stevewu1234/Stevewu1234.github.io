@@ -115,7 +115,7 @@ tags: NEWS
 
 
 
-&emsp;&emsp;**<font face="微软雅黑">14. 那谁来打包？旷工吃什么呢？</font>**
+&emsp;&emsp;**<font face="微软雅黑">14. 那谁来打包？矿工吃什么呢？</font>**
 
 &emsp;&emsp;**<font face="微软雅黑">Roy：</font>**<font face="微软雅黑">他们有别的机制，譬如这个币是PoS的，他们是通胀币，每年增发5%，然后把增发的一部分1%发给打包的矿工（超级节点，）EOS就是这么干的。</font>
 
