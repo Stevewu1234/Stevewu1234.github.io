@@ -7,6 +7,8 @@ cover: 'https://preview.ibb.co/gKAJBp/641_1.jpg'
 tags: 关于ETC
 ---
 
+![](https://image.ibb.co/cCx7Oe/1535430722445e8f69f0035.jpg)
+
 ### 以太经典ETC是以太坊的原链
 
 *2015年7月30日*
@@ -315,3 +317,7 @@ tags: 关于ETC
 ***未来展望***
 
 &emsp;&emsp;以太经典ETC正在主攻物联网和侧链，我们相信未来以太坊经典会成为一个去中心化和不可篡改的公共基础设施。
+
+![](https://image.ibb.co/mAA749/02_02.jpg)
+
+![](https://image.ibb.co/miAkrp/01.jpg)
