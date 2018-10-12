@@ -8,6 +8,7 @@ tags: NEWS
 ---
 
 
+![](https://image.ibb.co/cCx7Oe/1535430722445e8f69f0035.jpg)
 
 **<font face="微软雅黑">路演主题：以太经典ETC展望</font>**
 
@@ -115,7 +116,7 @@ tags: NEWS
 
 
 
-&emsp;&emsp;**<font face="微软雅黑">14. 那谁来打包？矿工吃什么呢？</font>**
+&emsp;&emsp;**<font face="微软雅黑">14. 那谁来打包？旷工吃什么呢？</font>**
 
 &emsp;&emsp;**<font face="微软雅黑">Roy：</font>**<font face="微软雅黑">他们有别的机制，譬如这个币是PoS的，他们是通胀币，每年增发5%，然后把增发的一部分1%发给打包的矿工（超级节点，）EOS就是这么干的。</font>
 
@@ -130,3 +131,7 @@ tags: NEWS
 **<font face="微软雅黑">QQ群：</font>**<font face="微软雅黑">628840867</font>
 
 **<font face="微软雅黑">微博：</font>**<font face="微软雅黑">以太经典＿ETC</font>
+
+![](https://image.ibb.co/mAA749/02_02.jpg)
+
+![](https://image.ibb.co/miAkrp/01.jpg)
