@@ -25,6 +25,8 @@ tags: 周讯
 
 <font face="微软雅黑">ECIP-1045详情请点击:https://github.com/ethereumproject/ECIPs/pull/95</font>
 
+<br>
+
 
 **<font face="微软雅黑">2.团队新力量</font>**
 
@@ -32,6 +34,7 @@ tags: 周讯
 
 &emsp;&emsp;<font face="微软雅黑">编译器工程师Michael Collison加入ETC开发团队啦！他正逐步适应团队运作，我们期待着他接下来对Sputnik虚拟机项目的贡献。</font>
 
+<br>
 
 **<font face="微软雅黑">3.项目进展</font>**
 
@@ -41,7 +44,7 @@ tags: 周讯
 
 <center><font face="微软雅黑">翡翠CLI</font></center>
 
-**<font face="微软雅黑">翡翠CLI</font>**
+- **<font face="微软雅黑">翡翠CLI</font>**
 
 &emsp;&emsp;<font face="微软雅黑">翡翠CLI 拥有与Truffle框架相似的特征，但是，翡翠CLI的亮点在于，它整合了绝佳的翡翠平台工具，用于点到点的Dapp开发。</font>
 
@@ -49,14 +52,14 @@ tags: 周讯
 
 
 
-**<font face="微软雅黑">翡翠项目入门工具包</font>**
+- **<font face="微软雅黑">翡翠项目入门工具包</font>**
 
 &emsp;&emsp;<font face="微软雅黑">翡翠项目入门工具包（Emerald Starter Kit ）是用于在ETC网络上搭建Dapp的准系统模板。开发人员可以基于这个模板快速地更新迭代他们自己的Dapp产品。（如果他们愿意这么做的话）</font>
 
 <font face="微软雅黑">Github 文件：https://github.com/ETCDEVTeam/emerald-starter-kit</font>
 
 
-**<font face="微软雅黑">文档</font>**
+- **<font face="微软雅黑">文档</font>**
 
 &emsp;&emsp;<font face="微软雅黑">新网站上的信息可以帮助开发者构建不受第三方束缚的去中心化应用程序，同时为开发者提供更多关于我们开源项目的信息支持。</font>
 
@@ -65,14 +68,14 @@ tags: 周讯
 
 ![](https://image.ibb.co/kUdtM9/Orbita.png)
 
-**<font face="微软雅黑">Orbita</font>**
+- **<font face="微软雅黑">Orbita</font>**
 
 &emsp;&emsp;<font face="微软雅黑">新的研究项目：Orbita侧链项目，旨在解决ETC的可扩展性问题。</font>
 
 
 ![](https://image.ibb.co/gFmPTp/YouTube.png)
 
-**<font face="微软雅黑">YouTube</font>**
+- **<font face="微软雅黑">YouTube</font>**
 
 &emsp;&emsp;<font face="微软雅黑">欢迎大家访问并订阅我们的YouTube频道：ETCDEV</font>
 
@@ -84,12 +87,13 @@ tags: 周讯
 
 
 
-**<font face="微软雅黑">Instagram</font>**
+- **<font face="微软雅黑">Instagram</font>**
 
 &emsp;&emsp;<font face="微软雅黑">欢迎大家浏览和关注我们新的Instagram：etcdev</font>
 
 &emsp;&emsp;<font face="微软雅黑">Instagram地址：https://www.instagram.com/etcdev/</font>
 
+<br>
 
 **<font face="微软雅黑">4.其他项目的更新</font>**        
 
@@ -110,6 +114,8 @@ tags: 周讯
 - <font face="微软雅黑">发布v0.9.0版本</font>
 
 &emsp;&emsp;<font face="微软雅黑">捆绑C语言和Go语言以用于Sputnik虚拟机核心库</font>
+
+<br>
 
 **<font face="微软雅黑">5.其他新闻</font>**
 
