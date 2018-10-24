@@ -66,7 +66,7 @@ tags: NEWS
 
 <center><font face="微软雅黑">欢迎大家从以下平台加入我们</font></center>
 
-<center><font face="微软雅黑">以太经典ETC中文网：[http://Ethereumclassic.cn](http://Ethereumclassic.cn "文字链接")</font></center>
+[<center><font face="微软雅黑">以太经典ETC中文网</font></center>](http://Ethereumclassic.cn)
 
 ![](https://image.ibb.co/c776GV/image.jpg)
 <center><font face="微软雅黑">我们的电报群：https://t.me/etcgo</font></center>
