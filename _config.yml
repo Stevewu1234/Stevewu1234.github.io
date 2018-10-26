@@ -24,10 +24,10 @@ footer:
   since: ETCChina
 
 # Author 配置博主信息
-author: '以太经典_ETC'
-nickname: 'ETC'
-bio: '介绍以太经典ETC的最新资讯，包括技术，团队和社区，为大家呈现最全面的Ethereum_Classic'
-avatar: '/assets/img/profile.png'
+author: '哥德尔实验室Gödel Labs'
+nickname: 'Gödel Labs'
+bio: '  哥德尔实验室Gödel Labs是区块链Blockchain&人工智能AI技术研究与开发公司，由区块链技术工程师、密码学家、数学家与AI研究学者共同发起成立。宗旨是通过创建去中心化系统，建立一个自由、公平和开放的数字社会。'
+avatar: '//image.ibb.co/fuHPAq/goedel-labs.jpg'
 
 # Search
 search: true
@@ -61,7 +61,8 @@ postPatterns: 'seaOfClouds'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/ethereumclassic'
+  weibo: '//weibo.com/6426321445/profile?topnav=1&wvr=6&is_all=1'
+  linkedin: '//cn.linkedin.com/company/goedel?trk=ppro_cprof'
 
 
 #webchat: '//image.ibb.co/mBaQuK/1538299208.png'
