@@ -4,7 +4,7 @@ title: 'ETC周讯|10.08-10.14'
 date: 2018-10-18
 subtitle: 'ETC与Blockfolio Signal携手合作；基于ETC区块链建设的项目介绍；如何把旧手机变成硬件钱包。'
 cover: 'https://preview.ibb.co/duD7Qq/image.jpg'
-tags: 周迅
+tags: 周讯
 ---
 
 ![](https://image.ibb.co/h9VWJA/image.jpg)
