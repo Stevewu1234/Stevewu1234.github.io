@@ -100,7 +100,7 @@ tags: 周讯
 
 
 <font face="微软雅黑"><center>我们的电报群：https://t.me/etcgo</center></font>
-![](https://image.ibb.co/jcDicU/ETC.jpg)
+![](https://preview.ibb.co/iyBhVq/image.jpg)
 
 <font face="微软雅黑"><center>添加运营小编微信进群：Goedel_Labs</center></font>
 
