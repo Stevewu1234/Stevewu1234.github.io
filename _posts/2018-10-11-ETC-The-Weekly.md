@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ETC精彩资讯|9.30-10.7'
+title: 'ETC周讯|9.30-10.7'
 date: 2018-10-11
 subtitle: 'ETC开发团队9月更新；ETClabs主席：ETC与ETH在竞争下互促进'
 cover: 'https://image.ibb.co/mBgcW9/image.jpg'
