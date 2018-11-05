@@ -48,28 +48,36 @@ tags: NEWS
 
 <font face="微软雅黑"><center>欢迎大家从以下社区平台加入我们</center></font>
 
+
 ***
-
-<font face="微软雅黑"><center>以太经典ETC中文网：http://Ethereumclassic.cn</center></font>
-
+<font face="微软雅黑"><center>欢迎大家从以下社区平台加入我们</center></font>
 
 
 <font face="微软雅黑"><center>我们的电报群：https://t.me/etcgo</center></font>
-![](https://image.ibb.co/jcDicU/ETC.jpg)
+![](https://image.ibb.co/dDg5iA/image.jpg)
 
 <font face="微软雅黑"><center>添加运营小编微信进群：Goedel_Labs</center></font>
-![](https://image.ibb.co/kxnLP9/YAN.jpg)
+
+![](https://preview.ibb.co/hnL6OA/G.jpg)
+![](https://preview.ibb.co/bZ4pbV/Yan.jpg)
+
 
 <font face="微软雅黑"><center>QQ群：628840867</center></font>
-![](https://image.ibb.co/fnbEj9/ETCQQ3.jpg)
+
+![](https://image.ibb.co/fTYFGV/QQ.jpg)
 
 <font face="微软雅黑"><center>微博：以太经典＿ETC</center></font>
-![](https://image.ibb.co/hi1rWp/ETC.jpg)
+![](https://preview.ibb.co/f2cWqq/weibo.jpg)
 
-<font face="微软雅黑"><center>翻译文章观点不代表本公众号立场</center></font>
+<font face="微软雅黑"><center>翻译文章观点不代表网站立场</center></font>
+
 
 <font face="微软雅黑"><center>转载请注明：以太经典中文网</center></font>
 
+
+<font face="微软雅黑"><center>感谢哥德尔实验室的大力支持</center></font>
+[<font face="微软雅黑"><center>www.godel.ai</center></font>](http://www.godel.ai)
+
 ![](https://image.ibb.co/mGe2Qq/image.jpg)
 
-![](https://image.ibb.co/miAkrp/01.jpg)
+[![](https://image.ibb.co/miAkrp/01.jpg)](http://goedel.ai)
