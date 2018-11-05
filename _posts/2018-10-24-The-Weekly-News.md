@@ -100,7 +100,7 @@ tags: 周讯
 
 
 <font face="微软雅黑"><center>我们的电报群：https://t.me/etcgo</center></font>
-![](https://preview.ibb.co/iyBhVq/image.jpg)
+![](https://image.ibb.co/dDg5iA/image.jpg)
 
 <font face="微软雅黑"><center>添加运营小编微信进群：Goedel_Labs</center></font>
 
@@ -115,7 +115,14 @@ tags: 周讯
 <font face="微软雅黑"><center>微博：以太经典＿ETC</center></font>
 ![](https://preview.ibb.co/f2cWqq/weibo.jpg)
 
-<font face="微软雅黑"><center>转载请注明：以太经典中文网（公众号）</center></font>
+<font face="微软雅黑"><center>翻译文章观点不代表网站立场</center></font>
+
+
+<font face="微软雅黑"><center>转载请注明：以太经典中文网</center></font>
+
+
+<font face="微软雅黑"><center>感谢哥德尔实验室的大力支持</center></font>
+[<font face="微软雅黑"><center>www.godel.ai</center></font>](http://www.godel.ai)
 
 ![](https://image.ibb.co/mGe2Qq/image.jpg)
 
