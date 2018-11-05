@@ -54,32 +54,36 @@ tags: NEWS
 &emsp;&emsp;<font face="微软雅黑">此外，Artamonov指出，“中心化/中央管理式区块链各层面的运维成本可能要比去中心化区块链高100万倍。”</font>
 
 
----
 
-<center><font face="微软雅黑">以上配图来源网络和以太经典中文网，如有侵权请联系小编删除</font></center>
+***
+<font face="微软雅黑"><center>欢迎大家从以下社区平台加入我们</center></font>
 
-<center><font face="微软雅黑">翻译文章观点不代表本公众号立场</font></center>
 
-<center><font face="微软雅黑">转载请注明：以太经典中文网</font></center>
+<font face="微软雅黑"><center>我们的电报群：https://t.me/etcgo</center></font>
+![](https://image.ibb.co/dDg5iA/image.jpg)
 
----
+<font face="微软雅黑"><center>添加运营小编微信进群：Goedel_Labs</center></font>
 
-<center><font face="微软雅黑">欢迎大家从以下平台加入我们</font></center>
+![](https://preview.ibb.co/hnL6OA/G.jpg)
+![](https://preview.ibb.co/bZ4pbV/Yan.jpg)
 
-[<center><font face="微软雅黑">以太经典ETC中文网</font></center>](http://Ethereumclassic.cn)
 
-![](https://image.ibb.co/c776GV/image.jpg)
-<center><font face="微软雅黑">我们的电报群：https://t.me/etcgo</font></center>
+<font face="微软雅黑"><center>QQ群：628840867</center></font>
 
-![](https://image.ibb.co/dVXFbV/G.jpg)
-<center><font face="微软雅黑">添加运营小编微信进群：Goedel_Labs</font></center>
+![](https://image.ibb.co/fTYFGV/QQ.jpg)
 
-![](https://image.ibb.co/c3GcOA/ETC-QQ3.jpg)
-<center><font face="微软雅黑">我们的QQ群：628840867</font></center>
+<font face="微软雅黑"><center>微博：以太经典＿ETC</center></font>
+![](https://preview.ibb.co/f2cWqq/weibo.jpg)
 
-![](https://image.ibb.co/egBcOA/weibo.jpg)
-<center><font face="微软雅黑">我们的微博：以太经典＿ETC</font></center>
+<font face="微软雅黑"><center>翻译文章观点不代表网站立场</center></font>
 
-![](https://image.ibb.co/hfrB8p/goedel.jpg)
 
-![](https://image.ibb.co/d4ZW8p/goedellabs.jpg)
+<font face="微软雅黑"><center>转载请注明：以太经典中文网</center></font>
+
+
+<font face="微软雅黑"><center>感谢哥德尔实验室的大力支持</center></font>
+[<font face="微软雅黑"><center>www.godel.ai</center></font>](http://www.godel.ai)
+
+![](https://image.ibb.co/mGe2Qq/image.jpg)
+
+[![](https://image.ibb.co/miAkrp/01.jpg)](http://goedel.ai)
