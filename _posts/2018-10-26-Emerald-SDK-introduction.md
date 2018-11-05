@@ -117,9 +117,14 @@ tags: NEWS
 <font face="微软雅黑"><center>微博：以太经典＿ETC</center></font>
 ![](https://preview.ibb.co/f2cWqq/weibo.jpg)
 
-<font face="微软雅黑"><center>翻译文章观点不代表本公众号立场</center></font>
+<font face="微软雅黑"><center>翻译文章观点不代表网站立场</center></font>
+
 
 <font face="微软雅黑"><center>转载请注明：以太经典中文网</center></font>
+
+
+<font face="微软雅黑"><center>感谢哥德尔实验室的大力支持</center></font>
+[<font face="微软雅黑"><center>www.godel.ai</center></font>](http://www.godel.ai)
 
 ![](https://image.ibb.co/mGe2Qq/image.jpg)
 
