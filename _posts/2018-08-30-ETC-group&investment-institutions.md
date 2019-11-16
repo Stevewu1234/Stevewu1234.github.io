@@ -3,7 +3,7 @@ layout: post
 title: '以太经典ETC团队&投资机构'
 date: 2018-08-30
 subtitle: 'ETC团队&投资机构'
-cover: 'http://p98.pstatp.com/large/pgc-image/1535626915979121d00f754'
+cover: 'https://i.ibb.co/LSvt053/1535626915979121d00f754.jpg'
 tags: ETC团队
 ---
 
